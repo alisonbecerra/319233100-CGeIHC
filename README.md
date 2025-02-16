@@ -9,8 +9,16 @@
 
 
 **NOMBRE COMPLETO:** Alison Becerra Lara
+
+
 **N° de Cuenta:** 31920033100
+
+
 **GRUPO DE LABORATORIO:** 03 
+
+
 **GRUPO DE TEORÍA:** 04
+
+
 **SEMESTRE 2025-2**  
 
