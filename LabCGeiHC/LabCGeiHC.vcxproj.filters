@@ -35,7 +35,7 @@
     <ClCompile Include="Window.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\E01-319233100.cpp">
+    <ClCompile Include="P01-319233100.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
