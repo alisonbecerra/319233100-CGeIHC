@@ -6,6 +6,7 @@
 #include <time.h>
 #include <cstdlib>
 #include <ctime>
+#include <random>
 
 //Dimensiones de la ventana
 const int WIDTH = 800, HEIGHT = 600;
